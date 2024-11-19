@@ -530,6 +530,3 @@ GROUP BY
 ORDER BY 
     Total_Compras DESC
 LIMIT 1;
-
-   
-
